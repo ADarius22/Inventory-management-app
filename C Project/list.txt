@@ -1,0 +1,6 @@
+300	Potatoes	20.00
+301	Onion	30.00
+303	Milk	10.00
+304	Apple	5.00
+305	Orange	10.00
+306	Banana	2.00
